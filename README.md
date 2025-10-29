@@ -1,4 +1,4 @@
-# IPL All Time Statistics - Complete Documentation with Output Screens
+# IPL All Time Statistics 
 
 ## Overview
 This project provides a menu-driven Python application for exploring historical Indian Premier League (IPL) batting statistics. It loads data from `ipl.csv`, exposes quick access to descriptive statistics, and offers built-in visualizations and analytics to highlight standout player performances.
